@@ -1,0 +1,1 @@
+print('Intro saptamana se obtin ', 7*(int(input('Numarul de oua care-l da prima gaina este '))+int(input('Numarul de oua care-l da a doua gaina este '))+int(input('Numarul de oua care-l da a treia gaina este '))+int(input('Numarul de oua care-l da a patra gaina este '))))

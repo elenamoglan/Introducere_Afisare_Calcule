@@ -1,0 +1,1 @@
+print('Nr. de iepuri care sunt in crescatorie: ', int(input('Nr. de iepuri la inceputul lunii: '))-int(input('Nr. de iepuri care au murit: '))+int(input('Nr. de iepuri care s-au nascut: ')))

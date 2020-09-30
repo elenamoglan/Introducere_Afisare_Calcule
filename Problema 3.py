@@ -1,0 +1,1 @@
+print('Au plecat în excursie', 7+int(input('Numarul de copii care au urcat din prima scoala:'))+int(input('Numarul de copii care au urcat din a doua scoala:')), 'copii')
