@@ -1,4 +1,4 @@
-a=int(input('Numărul de rînd al culorii curcubeului este'))
+a=int(input('Numărul de rînd al culorii curcubeului: '))
 if a==1:
     print('Culoarea este rosie')
 elif a==2:
